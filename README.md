@@ -1,6 +1,6 @@
 Hi my name is Joshua Fisher
 
-I am intersted in all this data. In my professional life I work as a Business Intelligence Analyst, and I have exeperience as a Software Engineer.
+I am intersted in all this data. In my professional life I work as a Business Intelligence Analyst, and I plan to transition into Machine Learning. I also have exeperience as a Software Engineer.
 My degree is in  Computer Information Systems. 
 
 
