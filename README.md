@@ -1,8 +1,7 @@
 Hi my name is Joshua Fisher
 
 I am intersted in all this data. In my professional life I work as a Business Intelligence Analyst, and I have exeperience as a Software Engineer.
-My degree is in  Computer Information Systems. I am currently learning how to research, design, and build data pipelines, warehouses, and lakes. 
-
+My degree is in  Computer Information Systems. 
 
 
 <!---
